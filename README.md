@@ -1,1 +1,1 @@
-# Line-detection
+# Line-detection and fitting using Matlab
